@@ -53,20 +53,4 @@ Si solo quieres ver y escuchar la señal de un dispositivo externo en tu computa
 
 Desarrollado y mantenido por [YaelMagana29](https://github.com/YaelMagana29).
 
----
-
-## 🛠️ Requisitos e Instalación del Entorno
-
-Para ejecutar el código fuente en Windows sin problemas de variables de entorno o PATH de Python, usa el lanzador universal de Windows (`py`):
-
-```bash
-# 1. Clonar este repositorio
-git clone [https://github.com/YaelMagana29/YMVISOR.git](https://github.com/YaelMagana29/YMVISOR.git)
-cd YMVISOR
-
-# 2. Instalar todas las dependencias necesarias de un solo golpe
-py -m pip install opencv-python pygrabber pypresence sounddevice
-
-# 3. Arrancar la aplicación
-py main.py
 
