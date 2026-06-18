@@ -3,7 +3,7 @@
 
 ---
 
-> ### ⚠️ ¡AVISO IMPORTANTE! / IMPORTANT NOTICE:
+> ### ⚠️ ¡AVISO IMPORTANTE!:
 > **📢 EL CÓDIGO FUENTE NO ESTÁ LIBERADO AÚN.** 
 > El desarrollo de la versión 2.0 se encuentra en fase final de optimización y empaquetado. El código completo y sus componentes serán liberados públicamente de forma abierta en este repositorio muy pronto. ¡Mantente al tanto!
 
