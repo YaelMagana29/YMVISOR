@@ -5,7 +5,7 @@
 
 > ### ⚠️ ¡AVISO IMPORTANTE! / IMPORTANT NOTICE:
 > **📢 EL CÓDIGO FUENTE NO ESTÁ LIBERADO AÚN.** 
-> El desarrollo de la versión 2.4 se encuentra en fase final de optimización y empaquetado. El código completo y sus componentes serán liberados públicamente de forma abierta en este repositorio muy pronto. ¡Mantente al tanto!
+> El desarrollo de la versión 2.0 se encuentra en fase final de optimización y empaquetado. El código completo y sus componentes serán liberados públicamente de forma abierta en este repositorio muy pronto. ¡Mantente al tanto!
 
 ---
 **YMVISOR** es una aplicación ultra-ligera y optimizada diseñada específicamente para proyectar la señal de tus capturadoras de video HDMI (USB/DSHOW) directamente en tu pantalla sin retrasos (*input lag*) ni configuraciones complicadas.
