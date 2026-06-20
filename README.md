@@ -55,18 +55,8 @@ Desarrollado y mantenido por [YaelMagana29](https://github.com/YaelMagana29).
 
 ---
 
-## 🛠️ Requisitos e Instalación del Entorno
+<img width="434" height="581" alt="image" src="https://github.com/user-attachments/assets/d1f6729c-56f1-4fc0-abcc-c411ad15cb8c" />
+<img width="1097" height="610" alt="image" src="https://github.com/user-attachments/assets/b9e8fccc-2981-4c95-a66a-13b578f81ceb" />
 
-Para ejecutar el código fuente en Windows sin problemas de variables de entorno o PATH de Python, usa el lanzador universal de Windows (`py`):
 
-```bash
-# 1. Clonar este repositorio
-git clone [https://github.com/YaelMagana29/YMVISOR.git](https://github.com/YaelMagana29/YMVISOR.git)
-cd YMVISOR
-
-# 2. Instalar todas las dependencias necesarias de un solo golpe
-py -m pip install opencv-python pygrabber pypresence sounddevice
-
-# 3. Arrancar la aplicación
-py main.py
 
