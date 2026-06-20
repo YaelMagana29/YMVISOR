@@ -57,6 +57,6 @@ Desarrollado y mantenido por [YaelMagana29](https://github.com/YaelMagana29).
 
 <img width="434" height="581" alt="image" src="https://github.com/user-attachments/assets/d1f6729c-56f1-4fc0-abcc-c411ad15cb8c" />
 <img width="1097" height="610" alt="image" src="https://github.com/user-attachments/assets/b9e8fccc-2981-4c95-a66a-13b578f81ceb" />
-
+<img width="910" height="430" alt="image" src="https://github.com/user-attachments/assets/bc98d4ad-bc02-4f12-a0b8-55734182ef45" />
 
 
